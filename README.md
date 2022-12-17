@@ -1,5 +1,5 @@
-- 👋 Hi, I’m HDM from GuangXi, China💕 -- 🇨🇳
-- 👀 I’m interested in IOT and AI.
-- 🌱 I’m currently learning how to communicate with others.
-- 💞️ Develop: `Python3` >> `Python3(Qt)` >> `C` >> `Java` >> `Dart(Flutter)` >> `C++` >> `C++(Qt)` >> `Java(Android)` >> ...
-- 📫 Reach me: `s.dgd@163.com` or `tqfc2016@gmail.com`
+- 👋 THDMI from GuangXi, China💕 -- 🇨🇳
+- 👀 Platform using `Python3` >> `Go` >> `C` >> `C++` ~ `Java` >>> `HTML/JavaScript`
+- 🌱 Visiable using `PySide6` ~ `PyQt5` >> `JavaFX` >> `Flutter` >> `Qt6` >> `Android(Java)` >>> `HTML/JavaScript/Vue/React`
+- 💞️ IoT using: `STC89R52` >> `STM32F103(HAL/RTT)` >> `ESP32(MicroPython)` ~ `ESP8266(MicroPython/AT)` >>> `MSP430`
+- 📫 Reach me: `tqfc2016@gmail.com`
